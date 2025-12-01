@@ -1,0 +1,40 @@
+# Dependências
+node_modules/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# Ambiente / variáveis
+.env
+.env.local
+.env.*.local
+
+# Builds e caches
+dist/
+build/
+.cache/
+.tmp/
+
+# Editor/IDE
+.vscode/
+.idea/
+
+# Arquivos temporários
+*.tmp
+*.swp
+*.swo
+
+# Arquivos do Node
+package-lock.json
+pnpm-lock.yaml
+yarn.lock
+
+# Arquivos de teste
+coverage/
